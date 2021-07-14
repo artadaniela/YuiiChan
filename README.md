@@ -25,6 +25,8 @@ The Support group can be reached out to at [Yuii Chan Club](https://t.me/yuiicha
 
 ## Setting up the bot (Read this before trying to use!):
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rshero/YuiiChan)
+
 
 # How to setup
 
